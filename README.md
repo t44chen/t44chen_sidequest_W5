@@ -11,6 +11,7 @@ Tracey Chen 21057118 t44chen
 ## Description
 
 This game aims to evoke a meditative experience, allowing players to relax through calm and peaceful exploration. The camera automatically tracks a smoothly flying airplane, endlessly flying to the right. A deep parallax system creates a 3D illusion through three layers of twinkling star. As the airplane flies, birds will spawn randomly.
+
 ---
 
 ## Setup and Interaction Instructions
