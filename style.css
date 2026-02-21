@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Force the body to take up the full screen height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a; /* Dark gray page background to contrast the black canvas */
+}
+
+canvas {
+  display: block;
+  box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.8); /* Deep shadow behind the canvas */
+  border-radius: 4px; /* Optional: A very subtle rounding of the sharp corners */
+}
